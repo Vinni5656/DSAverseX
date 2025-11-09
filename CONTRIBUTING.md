@@ -141,7 +141,7 @@ Together, let’s make this a positive space for learning and collaboration!
 
 ## 🌟 Thank You & Appreciation
 
-Every contribution—whether code, explanations, feedback, or ideas - helps make DSAverseX better.
+Every contribution—whether code, explanations, feedback, or ideas—helps make DSAverseX better.
 We are grateful to everyone who helps build, improve, and support this project.
 
 Major contributors and those providing outstanding support are recognized in CONTRIBUTORS.md.
