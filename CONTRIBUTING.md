@@ -112,6 +112,15 @@ Always check existing issues and pull requests before creating a new one to avoi
 
 - **Organize by Language**: Use /cpp/, /python/, /java/, etc.
 - **One Problem per File**: Name files clearly (e.g., binary_search.cpp).
+- **Include Problem Statement Link**: At the very top of every new code file, add a comment with the link to the original problem statemen
+
+   - Example for C++:
+
+   ```bash
+   // Problem: Two Sum
+   // Link: https://leetcode.com/problems/two-sum/
+   // Solution by: @your-github-username
+   ```
 - **Add Comments**: Explain approach & edge cases.
 - **Avoid Duplicates**: Improve existing solutions or add unique alternatives.
 - **Follow Style**: Keep formatting and naming standard.
