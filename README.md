@@ -61,5 +61,5 @@ For step-by-step instructions on adding solutions, following the folder structur
 
 ## 📄 License
 
-Licenced under the MIT Licence.
+Licenced under the [MIT Licence](./LICENSE.md).
 
