@@ -46,7 +46,7 @@ cd DSAverseX
 
 ## 📁 Repository Structure
 
-All DSA solutions are organized by language—whether you code in C++, Python, Java, or another language, just add your solution to the appropriate folder!
+All DSA solutions are organized by language - whether you code in C++, Python, Java, or another language, just add your solution to the appropriate folder!
 
 ```
 DSAverse/
