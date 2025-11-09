@@ -1,5 +1,5 @@
-# 🌌 DSAverseX
-DSAverseX is a collaborative repository for algorithm and data structure solutions.
+# 🌌 DSAverse
+DSAverse is a collaborative repository for algorithm and data structure solutions.
 Your contributions - ideas, code, or explanations - make it easier for others to discover new approaches and deepen their understanding.
 Share your spark, shape the journey, and help chart new constellations in the galaxy of code!
 
