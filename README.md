@@ -6,7 +6,7 @@ Share your spark, shape the journey, and help chart new constellations in the ga
 ---
 
 
-## Topics Covered
+## Topics To Contribute
 
 - [x] Arrays
 - [x] Strings
@@ -44,9 +44,26 @@ cd DSAverseX
 
 ---
 
-## 📁 File Structure
+## 📁 Repository Structure
+
+All DSA solutions are organized by language—whether you code in C++, Python, Java, or another language, just add your solution to the appropriate folder!
 
 ```
+DSAverse/
+├── C/
+├── C#/
+├── C++/
+├── Go/
+├── Java/
+├── JavaScript/
+├── Kotlin/
+├── PHP/
+├── Python/
+├── Ruby/
+├── Rust/
+├── Swift/
+└── TypeScript/
+
 ```
 
 ---
